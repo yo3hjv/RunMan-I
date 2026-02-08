@@ -9,6 +9,7 @@
  * 
  * Supported formats by ESP8266Audio:
  * MP3, WAV, FLAC, AAC, OGG/Opus, MIDI, MOD, RTTTL
+ * by Adrian Florescu yo3hjv
  */
 
 #include <SPI.h>
